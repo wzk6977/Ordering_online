@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deployments>
+  <deployment alt-context-root="" context-root="/ordering_online" deployment-path="D:/新建文件夹/online_0126/.metadata/.me_tcat7/webapps/ordering_online" project-name="ordering_online" server-id="myeclipseTomcatServer7" state="DEPLOYED" type="WEB"/>
+</deployments>
